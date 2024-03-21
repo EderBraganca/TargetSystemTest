@@ -1,0 +1,2 @@
+A organização do código é bem simples. Recebe um texto, armazena em uma string e uma string nada mais é que
+uma sequencia de caracteres, que pode ser lido e navegado 1 a 1. E o código funciona lendo a sequencia ao contrário.

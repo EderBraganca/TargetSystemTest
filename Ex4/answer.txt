@@ -1,0 +1,8 @@
+Supondo 3 interruptores (A, B, C) e 3 lampadas (X, Y, Z).
+
+No primeiro momento, eu ligaria 2 interruptores, por exemplo A e B, e iria para a sala ver quais sao as duas lampadas acesas.
+No segundomomento, eu apagaria 1 dos interruptores e ligaria o terceiro, por exemplo B e C, e iria na sala novamente.
+
+A lampada que estava acesa e se apagou na segunda ida, pertence ao interruptor A.
+A lampada que estiver acesa nas duas idas, pertence ao interruptor B.
+A lampada que começou apagada e se acendeu, pertence ao interruptor C.
